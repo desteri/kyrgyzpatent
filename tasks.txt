@@ -1,0 +1,7 @@
+Функционал - JS/JQuery (React?):
+
+    JSON (Что туда еще перенести?).
+
+    modules.
+
+    LazyLoading.

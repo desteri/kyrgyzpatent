@@ -1,0 +1,179 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "dataNum": 1,
+      "src": "./img/news/1.png",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, ut?",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque quos eligendi deserunt voluptate? Perspiciatis nesciunt aliquid quod ducimus. Et atque consequatur obcaecati est dolorem iusto velit, cum pariatur ratione, odit necessitatibus nihil culpa repudiandae! Quos deserunt obcaecati laboriosam commodi ipsa earum est sit dolorum ipsum maiores illum voluptatem sapiente animi dicta fugit architecto impedit voluptas esse, culpa itaque et placeat. Eligendi repellat aperiam eveniet molestiae repellendus voluptas nihil? Dolorem itaque dolor est quo. Eveniet reiciendis architecto atque, eius debitis perspiciatis similique alias iusto perferendis nemo nulla dolore sed laboriosam, impedit reprehenderit modi laborum natus amet obcaecati tenetur dolorum culpa. Dignissimos!"
+    },
+    {
+      "id": 2,
+      "dataNum": 2,
+      "src": "./img/news/2.png",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit, soluta?",
+      "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat quas minima molestias mollitia magni libero sed perspiciatis inventore nisi cupiditate! Optio cupiditate tempore eligendi itaque nam nesciunt, id amet ad adipisci fuga veniam commodi molestias eaque voluptatum nulla animi facilis earum iste nostrum perspiciatis magnam? Nam ut in ea assumenda fuga nostrum pariatur reprehenderit eligendi doloribus aut error tempore earum maiores, aspernatur magni, magnam distinctio labore natus architecto eos explicabo dolore eaque illo adipisci. Et molestiae neque eaque possimus placeat, excepturi repudiandae in cum dolores? Libero dolores ipsam nobis placeat magni repellendus quis dolorem repudiandae voluptatum sint, aliquid, ipsa soluta."
+    },
+    {
+      "id": 3,
+      "dataNum": 3,
+      "src": "./img/news/3.png",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, iusto!",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi ad nemo doloribus velit assumenda tempore nobis omnis, beatae veritatis porro repellat placeat similique perspiciatis modi impedit. Asperiores reprehenderit nesciunt, ipsam quam architecto aliquam delectus! Deserunt corrupti sed deleniti nisi odit dicta dignissimos earum impedit sit ipsum. Molestias unde commodi soluta delectus consectetur debitis autem error cupiditate nam tenetur, atque dolorem perspiciatis incidunt exercitationem deserunt nobis fugiat dolorum cumque fuga illo corrupti blanditiis dicta dolore sapiente! Totam rerum qui sit mollitia ea unde quaerat, deserunt eius fuga excepturi assumenda repellendus eligendi aspernatur similique laborum consectetur quod nostrum! Totam repudiandae nihil eum."
+    },
+    {
+      "id": 4,
+      "dataNum": 4,
+      "src": "./img/news/4.png",
+      "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. A, nam.",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A nostrum ea similique recusandae modi magni odio sed, libero amet ratione voluptate dolores officia quam, autem hic blanditiis laboriosam ad exercitationem ullam maiores reprehenderit nihil quod! Quaerat, delectus animi ratione eveniet, repellat nostrum ipsa laudantium esse vitae quis provident earum fugit iure, illo fuga odio blanditiis rem sit ad ducimus consequuntur. Enim doloremque adipisci reprehenderit earum neque pariatur? Provident a odio dicta reiciendis maiores molestiae quibusdam dolor nesciunt eveniet aperiam magni consequuntur minima quae debitis officia unde dolorem porro, perferendis nobis tempora voluptate reprehenderit voluptatem explicabo? Incidunt aspernatur voluptatum culpa tempora!"
+    },
+    {
+      "id": 5,
+      "dataNum": 5,
+      "src": "./img/news/5.png",
+      "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero, voluptatem!",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum reiciendis fugit, consequatur eos explicabo odio aliquid? Omnis at mollitia nobis consectetur molestiae dicta similique, facilis voluptatibus voluptatem tenetur rem fugiat consequatur optio suscipit, culpa amet autem! Atque autem velit quam sunt modi hic voluptatibus vitae reprehenderit ipsam, quisquam impedit maiores amet sit mollitia. Explicabo possimus minima vero ex quas delectus consequatur eius! Voluptatibus doloremque at temporibus sed consequatur ipsam, atque facilis officia nostrum assumenda corrupti ipsum perferendis optio minima quasi eos porro suscipit est tempore sequi labore iure nihil magni. Expedita rerum provident nulla, quibusdam voluptate ipsum! Voluptates, quas beatae?"
+    },
+    {
+      "id": 6,
+      "dataNum": 6,
+      "src": "./img/news/6.png",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, hic!",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, repellendus placeat ad tempora necessitatibus rem nostrum unde ex, saepe aut, consectetur odit at nemo enim temporibus deserunt possimus fuga. Ab neque omnis porro saepe explicabo commodi eum dolore animi provident suscipit harum optio nam sapiente, quidem cum exercitationem fuga quod voluptate ea accusantium? Molestiae velit praesentium nostrum nisi, inventore odit, autem commodi quibusdam quidem totam, ipsum cum? Odio assumenda fugiat fugit ex, magnam autem mollitia molestiae quaerat magni sed dignissimos voluptate minus facere explicabo beatae? Neque harum inventore cumque officiis, earum ullam perferendis velit consequuntur vel necessitatibus, illum voluptas sit."
+    },
+    {
+      "id": 7,
+      "dataNum": 7,
+      "src": "./img/news/7.png",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nihil, autem?",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis quam praesentium blanditiis enim recusandae sunt eligendi unde ex consequuntur voluptates numquam, facere voluptas ipsa, incidunt maiores magni voluptate assumenda quisquam possimus excepturi suscipit qui. Fugit ratione nesciunt doloribus harum velit, ipsam accusantium ducimus natus voluptas quod aspernatur nobis provident quae odit magnam illo veritatis corrupti aperiam? Fuga sapiente, pariatur architecto ea dolore soluta atque? Dolorum incidunt enim placeat distinctio consectetur optio. Eaque voluptates delectus ad doloribus ea natus, hic commodi inventore obcaecati nemo enim nostrum voluptatibus aut. Adipisci ullam culpa, architecto eligendi voluptate molestiae! Magnam, officiis voluptate. Eveniet, quidem quaerat?"
+    },
+    {
+      "id": 8,
+      "dataNum": 8,
+      "src": "./img/news/8.png",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, nostrum!",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet accusamus fuga animi iste, commodi magnam nam quod dicta veniam temporibus harum inventore esse eaque, asperiores sint sequi neque dolorum suscipit nostrum excepturi velit beatae quam itaque! Temporibus adipisci voluptas, eum placeat quis, cupiditate quas, perspiciatis fuga quae libero impedit nostrum distinctio? Accusamus, ipsum laborum optio a qui quas laudantium numquam ut unde repudiandae impedit veritatis quae suscipit est magni dignissimos doloribus quos culpa. Iste quasi ipsa voluptas dolorum eum corporis hic beatae enim nam molestiae. Commodi, officia! Quam quisquam soluta atque, quia maiores libero sint nulla adipisci dolorum, deserunt non."
+    },
+    {
+      "id": 9,
+      "dataNum": 9,
+      "src": "./img/news/9.png",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, neque!",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla laborum assumenda incidunt veritatis. Deleniti asperiores harum saepe dolor iure. Rerum quo consectetur, quia temporibus explicabo deleniti rem quas ipsam vero optio id illum minima odit quaerat, facere eos ut nulla aperiam ex maiores voluptate suscipit! Nostrum ad at earum omnis expedita voluptas a, similique praesentium eligendi eius delectus! Magnam voluptas eligendi, dolorum nulla consequatur reiciendis totam excepturi tenetur. Doloremque corporis rerum nisi quidem, fuga necessitatibus vero laudantium. Recusandae dignissimos nesciunt minima pariatur at accusamus hic numquam reprehenderit aspernatur optio eius, nam velit nobis, obcaecati suscipit, error modi esse! Officiis, voluptatibus?"
+    },{
+      "id": 13,
+      "dataNum": 13,
+      "src": "./img/news/13.png",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ratione, porro!",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A nostrum ea similique recusandae modi magni odio sed, libero amet ratione voluptate dolores officia quam, autem hic blanditiis laboriosam ad exercitationem ullam maiores reprehenderit nihil quod! Quaerat, delectus animi ratione eveniet, repellat nostrum ipsa laudantium esse vitae quis provident earum fugit iure, illo fuga odio blanditiis rem sit ad ducimus consequuntur. Enim doloremque adipisci reprehenderit earum neque pariatur? Provident a odio dicta reiciendis maiores molestiae quibusdam dolor nesciunt eveniet aperiam magni consequuntur minima quae debitis officia unde dolorem porro, perferendis nobis tempora voluptate reprehenderit voluptatem explicabo? Incidunt aspernatur voluptatum culpa tempora!"
+    },
+    {
+      "id": 11,
+      "dataNum": 11,
+      "src": "./img/news/11.png",
+      "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus, iusto.",
+      "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat quas minima molestias mollitia magni libero sed perspiciatis inventore nisi cupiditate! Optio cupiditate tempore eligendi itaque nam nesciunt, id amet ad adipisci fuga veniam commodi molestias eaque voluptatum nulla animi facilis earum iste nostrum perspiciatis magnam? Nam ut in ea assumenda fuga nostrum pariatur reprehenderit eligendi doloribus aut error tempore earum maiores, aspernatur magni, magnam distinctio labore natus architecto eos explicabo dolore eaque illo adipisci. Et molestiae neque eaque possimus placeat, excepturi repudiandae in cum dolores? Libero dolores ipsam nobis placeat magni repellendus quis dolorem repudiandae voluptatum sint, aliquid, ipsa soluta."
+    },
+    {
+      "id": 16,
+      "dataNum": 16,
+      "src": "./img/news/16.png",
+      "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quidem, odit.",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis quam praesentium blanditiis enim recusandae sunt eligendi unde ex consequuntur voluptates numquam, facere voluptas ipsa, incidunt maiores magni voluptate assumenda quisquam possimus excepturi suscipit qui. Fugit ratione nesciunt doloribus harum velit, ipsam accusantium ducimus natus voluptas quod aspernatur nobis provident quae odit magnam illo veritatis corrupti aperiam? Fuga sapiente, pariatur architecto ea dolore soluta atque? Dolorum incidunt enim placeat distinctio consectetur optio. Eaque voluptates delectus ad doloribus ea natus, hic commodi inventore obcaecati nemo enim nostrum voluptatibus aut. Adipisci ullam culpa, architecto eligendi voluptate molestiae! Magnam, officiis voluptate. Eveniet, quidem quaerat?"
+    },
+    {
+      "id": 10,
+      "dataNum": 10,
+      "src": "./img/news/10.png",
+      "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam, accusantium!",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque quos eligendi deserunt voluptate? Perspiciatis nesciunt aliquid quod ducimus. Et atque consequatur obcaecati est dolorem iusto velit, cum pariatur ratione, odit necessitatibus nihil culpa repudiandae! Quos deserunt obcaecati laboriosam commodi ipsa earum est sit dolorum ipsum maiores illum voluptatem sapiente animi dicta fugit architecto impedit voluptas esse, culpa itaque et placeat. Eligendi repellat aperiam eveniet molestiae repellendus voluptas nihil? Dolorem itaque dolor est quo. Eveniet reiciendis architecto atque, eius debitis perspiciatis similique alias iusto perferendis nemo nulla dolore sed laboriosam, impedit reprehenderit modi laborum natus amet obcaecati tenetur dolorum culpa. Dignissimos!"
+    },
+    {
+      "id": 18,
+      "dataNum": 18,
+      "src": "./img/news/18.png",
+      "title": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Architecto, dolores?",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla laborum assumenda incidunt veritatis. Deleniti asperiores harum saepe dolor iure. Rerum quo consectetur, quia temporibus explicabo deleniti rem quas ipsam vero optio id illum minima odit quaerat, facere eos ut nulla aperiam ex maiores voluptate suscipit! Nostrum ad at earum omnis expedita voluptas a, similique praesentium eligendi eius delectus! Magnam voluptas eligendi, dolorum nulla consequatur reiciendis totam excepturi tenetur. Doloremque corporis rerum nisi quidem, fuga necessitatibus vero laudantium. Recusandae dignissimos nesciunt minima pariatur at accusamus hic numquam reprehenderit aspernatur optio eius, nam velit nobis, obcaecati suscipit, error modi esse! Officiis, voluptatibus?"
+    },
+    {
+      "id": 15,
+      "dataNum": 15,
+      "src": "./img/news/15.png",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, nesciunt.",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, repellendus placeat ad tempora necessitatibus rem nostrum unde ex, saepe aut, consectetur odit at nemo enim temporibus deserunt possimus fuga. Ab neque omnis porro saepe explicabo commodi eum dolore animi provident suscipit harum optio nam sapiente, quidem cum exercitationem fuga quod voluptate ea accusantium? Molestiae velit praesentium nostrum nisi, inventore odit, autem commodi quibusdam quidem totam, ipsum cum? Odio assumenda fugiat fugit ex, magnam autem mollitia molestiae quaerat magni sed dignissimos voluptate minus facere explicabo beatae? Neque harum inventore cumque officiis, earum ullam perferendis velit consequuntur vel necessitatibus, illum voluptas sit."
+    },
+    {
+      "id": 12,
+      "dataNum": 12,
+      "src": "./img/news/12.png",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, veniam!",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi ad nemo doloribus velit assumenda tempore nobis omnis, beatae veritatis porro repellat placeat similique perspiciatis modi impedit. Asperiores reprehenderit nesciunt, ipsam quam architecto aliquam delectus! Deserunt corrupti sed deleniti nisi odit dicta dignissimos earum impedit sit ipsum. Molestias unde commodi soluta delectus consectetur debitis autem error cupiditate nam tenetur, atque dolorem perspiciatis incidunt exercitationem deserunt nobis fugiat dolorum cumque fuga illo corrupti blanditiis dicta dolore sapiente! Totam rerum qui sit mollitia ea unde quaerat, deserunt eius fuga excepturi assumenda repellendus eligendi aspernatur similique laborum consectetur quod nostrum! Totam repudiandae nihil eum."
+    },
+    {
+      "id": 17,
+      "dataNum": 17,
+      "src": "./img/news/17.png",
+      "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Error, temporibus.",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Amet accusamus fuga animi iste, commodi magnam nam quod dicta veniam temporibus harum inventore esse eaque, asperiores sint sequi neque dolorum suscipit nostrum excepturi velit beatae quam itaque! Temporibus adipisci voluptas, eum placeat quis, cupiditate quas, perspiciatis fuga quae libero impedit nostrum distinctio? Accusamus, ipsum laborum optio a qui quas laudantium numquam ut unde repudiandae impedit veritatis quae suscipit est magni dignissimos doloribus quos culpa. Iste quasi ipsa voluptas dolorum eum corporis hic beatae enim nam molestiae. Commodi, officia! Quam quisquam soluta atque, quia maiores libero sint nulla adipisci dolorum, deserunt non."
+    },
+    {
+      "id": 14,
+      "dataNum": 14,
+      "src": "./img/news/14.png",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore, fuga!",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum reiciendis fugit, consequatur eos explicabo odio aliquid? Omnis at mollitia nobis consectetur molestiae dicta similique, facilis voluptatibus voluptatem tenetur rem fugiat consequatur optio suscipit, culpa amet autem! Atque autem velit quam sunt modi hic voluptatibus vitae reprehenderit ipsam, quisquam impedit maiores amet sit mollitia. Explicabo possimus minima vero ex quas delectus consequatur eius! Voluptatibus doloremque at temporibus sed consequatur ipsam, atque facilis officia nostrum assumenda corrupti ipsum perferendis optio minima quasi eos porro suscipit est tempore sequi labore iure nihil magni. Expedita rerum provident nulla, quibusdam voluptate ipsum! Voluptates, quas beatae?"
+    },
+    {
+      "id": 25,
+      "dataNum": 25,
+      "src": "./img/news/25.png",
+      "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi, rerum.",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis quam praesentium blanditiis enim recusandae sunt eligendi unde ex consequuntur voluptates numquam, facere voluptas ipsa, incidunt maiores magni voluptate assumenda quisquam possimus excepturi suscipit qui. Fugit ratione nesciunt doloribus harum velit, ipsam accusantium ducimus natus voluptas quod aspernatur nobis provident quae odit magnam illo veritatis corrupti aperiam? Fuga sapiente, pariatur architecto ea dolore soluta atque? Dolorum incidunt enim placeat distinctio consectetur optio. Eaque voluptates delectus ad doloribus ea natus, hic commodi inventore obcaecati nemo enim nostrum voluptatibus aut. Adipisci ullam culpa, architecto eligendi voluptate molestiae! Magnam, officiis voluptate. Eveniet, quidem quaerat?"
+    },
+    {
+      "id": 24,
+      "dataNum": 24,
+      "src": "./img/news/24.png",
+      "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate, facilis!",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos, repellendus placeat ad tempora necessitatibus rem nostrum unde ex, saepe aut, consectetur odit at nemo enim temporibus deserunt possimus fuga. Ab neque omnis porro saepe explicabo commodi eum dolore animi provident suscipit harum optio nam sapiente, quidem cum exercitationem fuga quod voluptate ea accusantium? Molestiae velit praesentium nostrum nisi, inventore odit, autem commodi quibusdam quidem totam, ipsum cum? Odio assumenda fugiat fugit ex, magnam autem mollitia molestiae quaerat magni sed dignissimos voluptate minus facere explicabo beatae? Neque harum inventore cumque officiis, earum ullam perferendis velit consequuntur vel necessitatibus, illum voluptas sit."
+    },
+    {
+      "id": 23,
+      "dataNum": 23,
+      "src": "./img/news/23.png",
+      "title": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Natus, consectetur?",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum reiciendis fugit, consequatur eos explicabo odio aliquid? Omnis at mollitia nobis consectetur molestiae dicta similique, facilis voluptatibus voluptatem tenetur rem fugiat consequatur optio suscipit, culpa amet autem! Atque autem velit quam sunt modi hic voluptatibus vitae reprehenderit ipsam, quisquam impedit maiores amet sit mollitia. Explicabo possimus minima vero ex quas delectus consequatur eius! Voluptatibus doloremque at temporibus sed consequatur ipsam, atque facilis officia nostrum assumenda corrupti ipsum perferendis optio minima quasi eos porro suscipit est tempore sequi labore iure nihil magni. Expedita rerum provident nulla, quibusdam voluptate ipsum! Voluptates, quas beatae?"
+    },
+    {
+      "id": 22,
+      "dataNum": 22,
+      "src": "./img/news/22.png",
+      "title": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ratione, ducimus?",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. A nostrum ea similique recusandae modi magni odio sed, libero amet ratione voluptate dolores officia quam, autem hic blanditiis laboriosam ad exercitationem ullam maiores reprehenderit nihil quod! Quaerat, delectus animi ratione eveniet, repellat nostrum ipsa laudantium esse vitae quis provident earum fugit iure, illo fuga odio blanditiis rem sit ad ducimus consequuntur. Enim doloremque adipisci reprehenderit earum neque pariatur? Provident a odio dicta reiciendis maiores molestiae quibusdam dolor nesciunt eveniet aperiam magni consequuntur minima quae debitis officia unde dolorem porro, perferendis nobis tempora voluptate reprehenderit voluptatem explicabo? Incidunt aspernatur voluptatum culpa tempora!"
+    },
+    {
+      "id": 21,
+      "dataNum": 21,
+      "src": "./img/news/21.png",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, molestiae!",
+      "text": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sequi ad nemo doloribus velit assumenda tempore nobis omnis, beatae veritatis porro repellat placeat similique perspiciatis modi impedit. Asperiores reprehenderit nesciunt, ipsam quam architecto aliquam delectus! Deserunt corrupti sed deleniti nisi odit dicta dignissimos earum impedit sit ipsum. Molestias unde commodi soluta delectus consectetur debitis autem error cupiditate nam tenetur, atque dolorem perspiciatis incidunt exercitationem deserunt nobis fugiat dolorum cumque fuga illo corrupti blanditiis dicta dolore sapiente! Totam rerum qui sit mollitia ea unde quaerat, deserunt eius fuga excepturi assumenda repellendus eligendi aspernatur similique laborum consectetur quod nostrum! Totam repudiandae nihil eum."
+    },
+    {
+      "id": 20,
+      "dataNum": 20,
+      "src": "./img/news/20.png",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, quae!",
+      "text": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat quas minima molestias mollitia magni libero sed perspiciatis inventore nisi cupiditate! Optio cupiditate tempore eligendi itaque nam nesciunt, id amet ad adipisci fuga veniam commodi molestias eaque voluptatum nulla animi facilis earum iste nostrum perspiciatis magnam? Nam ut in ea assumenda fuga nostrum pariatur reprehenderit eligendi doloribus aut error tempore earum maiores, aspernatur magni, magnam distinctio labore natus architecto eos explicabo dolore eaque illo adipisci. Et molestiae neque eaque possimus placeat, excepturi repudiandae in cum dolores? Libero dolores ipsam nobis placeat magni repellendus quis dolorem repudiandae voluptatum sint, aliquid, ipsa soluta."
+    },
+    {
+      "id": 19,
+      "dataNum": 19,
+      "src": "./img/news/19.png",
+      "title": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus, labore.",
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque quos eligendi deserunt voluptate? Perspiciatis nesciunt aliquid quod ducimus. Et atque consequatur obcaecati est dolorem iusto velit, cum pariatur ratione, odit necessitatibus nihil culpa repudiandae! Quos deserunt obcaecati laboriosam commodi ipsa earum est sit dolorum ipsum maiores illum voluptatem sapiente animi dicta fugit architecto impedit voluptas esse, culpa itaque et placeat. Eligendi repellat aperiam eveniet molestiae repellendus voluptas nihil? Dolorem itaque dolor est quo. Eveniet reiciendis architecto atque, eius debitis perspiciatis similique alias iusto perferendis nemo nulla dolore sed laboriosam, impedit reprehenderit modi laborum natus amet obcaecati tenetur dolorum culpa. Dignissimos!"
+    }
+  ],
+  "post": []
+}
