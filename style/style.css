@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  font-family: 'Raleway', sans-serif;
+  font-family: Raleway, sans-serif;
 }
 
 .container {
@@ -22,7 +22,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
 }
 
 h1 {
@@ -158,7 +158,7 @@ header .navbar .container-fluid .offcanvas .offcanvas-header {
 }
 
 header .navbar .container-fluid .offcanvas .offcanvas-body .navbar-nav {
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.2em;
   font-weight: 500;
 }
@@ -343,7 +343,7 @@ header .navbar .container-fluid .offcanvas .offcanvas-body .navbar-nav .nav-item
 
 .achieve .row .col p {
   margin-top: 5px;
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
   font-style: italic;
   font-size: .9em;
 }
@@ -548,7 +548,7 @@ header .navbar .container-fluid .offcanvas .offcanvas-body .navbar-nav .nav-item
 }
 
 .npa__content table th {
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.15em;
 }
 
@@ -567,7 +567,7 @@ header .navbar .container-fluid .offcanvas .offcanvas-body .navbar-nav .nav-item
 
 .edition__content table th {
   vertical-align: middle;
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.15em;
 }
 
@@ -644,6 +644,12 @@ header .navbar .container-fluid .offcanvas .offcanvas-body .navbar-nav .nav-item
 .news__block .news__content .card .row .col-md-8 .card-body .card-title {
   font-size: 2em;
   margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+  .news__block .news__content .card .row .col-md-8 .card-body .card-title {
+    margin-top: 1rem;
+  }
 }
 
 .news__block .news__content .card .row .col-md-8 .card-body .card-title a {
@@ -741,7 +747,7 @@ header .navbar .container-fluid .offcanvas .offcanvas-body .navbar-nav .nav-item
           box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .about__us .row .col .card {
     width: 75%;
     margin: 0 auto;
@@ -759,7 +765,7 @@ header .navbar .container-fluid .offcanvas .offcanvas-body .navbar-nav .nav-item
   margin: 0 auto;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .about__us .general .col .card {
     width: 75%;
   }
@@ -866,7 +872,7 @@ header .navbar .container-fluid .offcanvas .offcanvas-body .navbar-nav .nav-item
 .zas-izo .row .col-lg-8 table thead tr th {
   font-family: 'Raleway', sans-serif;
   vertical-align: middle;
-  font-family: "Roboto", sans-serif;
+  font-family: Roboto, sans-serif;
   font-size: 1.15em;
 }
 
@@ -898,6 +904,10 @@ header .navbar .container-fluid .offcanvas .offcanvas-body .navbar-nav .nav-item
   .zas-izo .row .col-lg-2 {
     text-align: center;
   }
+}
+
+.on-vois .row {
+  gap: 20px;
 }
 
 .zas-izo .row .col-lg-8 table tr tbody tr td:first-child {
@@ -993,6 +1003,12 @@ header .navbar .container-fluid .offcanvas .offcanvas-body .navbar-nav .nav-item
 
 .jash .row .col ul li {
   margin-bottom: 10px;
+}
+
+@media screen and (max-width: 768px) {
+  .jash .row .col ul li:first-child {
+    margin-top: 30px;
+  }
 }
 
 .jash .row .col ul li a {

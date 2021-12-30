@@ -3,7 +3,7 @@ function getNewsDetails() {
     const id = new URLSearchParams(window.location.search).get('id');
 
     const renderNews = async () => {
-        const result = await fetch('http://localhost:3000/news/' + id);
+        const result = await fetch('../db.json' + id);
         const newsPost = await result.json();
         const newsTemplate = `
             <div class="card border-0" style="width: 100%;">

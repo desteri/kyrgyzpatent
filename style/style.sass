@@ -1,4 +1,4 @@
-$roboto: 'Roboto', sans-serif
+$roboto: Roboto, sans-serif
 $text-white: #ffffff
 
 html
@@ -9,7 +9,7 @@ html
         font-size: 12px
 
 body
-    font-family: 'Raleway', sans-serif
+    font-family: Raleway, sans-serif
     
 .container
     max-width: 1170px
@@ -526,6 +526,9 @@ header
                             font-size: 2em
                             margin-bottom: 1rem
 
+                            @media screen and (max-width: 768px)
+                                margin-top: 1rem
+
                             a
                                 color: #333333
                                 transition: .3s ease
@@ -599,7 +602,7 @@ header
                 border: none
                 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
 
-                @media screen and (max-width: 767px)
+                @media screen and (max-width: 768px)
                     width: 75%
                     margin: 0 auto
 
@@ -612,7 +615,7 @@ header
                 width: 50%
                 margin: 0 auto
 
-                @media screen and (max-width: 767px)
+                @media screen and (max-width: 768px)
                     width: 75%
                 
                 @media screen and (max-width: 576px)
@@ -722,6 +725,10 @@ header
             @media screen and (max-width: 991px)
                 text-align: center
 
+.on-vois
+    .row
+        gap: 20px
+
 .zas-izo
     .row
         .col-lg-8
@@ -811,6 +818,10 @@ header
             ul
                 li
                     margin-bottom: 10px
+
+                    &:first-child
+                        @media screen and (max-width: 768px)
+                            margin-top: 30px
 
                     a
                         color: #333333
