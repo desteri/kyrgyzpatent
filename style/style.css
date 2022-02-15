@@ -1049,6 +1049,10 @@ header .navbar .container-fluid .offcanvas .offcanvas-body .navbar-nav .nav-item
   margin: 0 10px;
 }
 
+.anketa-body .anketa-question div {
+  margin: 20px 0;
+}
+
 footer,
 footer a {
   color: #f2f2f2;
